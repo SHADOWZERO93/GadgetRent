@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gadget Rental System</title>
+    <link rel="stylesheet" href="new.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Gadget Rental System</h1>
+        <p class="subtitle">Rent and list gadgets securely with Ethereum</p>
+
+        <div class="form-section">
+            <h2>List a Gadget</h2>
+            <input type="text" id="gadgetName" placeholder="Gadget Name" />
+            <input type="text" id="description" placeholder="Description" />
+            <input type="text" id="rentalPrice" placeholder="Rental Price (ETH)" />
+            <button id="listButton">List Gadget</button>
+        </div>
+
+        <h2 class="available-title">Available Gadgets</h2>
+        <div id="gadgetsGrid" class="grid"></div>
+    </div>
+
+    <script src="new.js"></script>
+</body>
+</html>
