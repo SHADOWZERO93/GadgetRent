@@ -20,3 +20,6 @@ Our vision is to create a trustless and transparent rental ecosystem where users
 - **Ownership Verification:** Ensures that only the owner can list gadgets for rent.
 - **Decentralized Transactions:** No middleman, reducing costs and increasing trust.
 
+## Contract Address :
+0x925E56F9e30b1F0488395548b95E8483FfE7A0F7
+![Screenshot 2025-03-20 155238](https://github.com/user-attachments/assets/a0938e8e-507a-4bcc-a86a-2379efe60c6c)
